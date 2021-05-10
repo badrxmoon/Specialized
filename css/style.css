@@ -1,0 +1,24 @@
+.nav-font{
+    font-size: 1.5em;
+    color: blue;
+    font-weight: bold;
+}
+
+.slide-bottom {
+    margin-bottom: 50px;
+}
+
+.nav-font{
+    font-size: 1.1rem;
+}
+
+.title-font{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 1.5rem;
+    font-weight: bold;
+}
+
+.img-hardware{
+    margin-left: 80px;
+    
+}
